@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Strikerdarepublic
+- 👋 Hi, I’m @Chukwuemeka Morgan Nweke
 - 👀 I’m interested in learning cool stuffs as an entry level Data Analyst.
 - 🌱 I’m currently learning SQL,PYTHON, SPREADSHEET,POWER BI
 - 💞️ I’m looking to collaborate on the above stated programming Language and tool.
